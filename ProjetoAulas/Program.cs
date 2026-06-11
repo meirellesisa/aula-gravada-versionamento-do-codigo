@@ -209,3 +209,9 @@ Console.WriteLine(nomeEIdade3);
 var nomeEIdade4 = NomeEIdade("Maria", 60);
 Console.WriteLine(nomeEIdade4);
 
+
+// git init 
+// git add . -> criar o arquivo .gitignore
+// git commit -m "Primeiro commit"
+// git remote add origin URL
+// git push -u origin main ou master (depende de como foi criado)
